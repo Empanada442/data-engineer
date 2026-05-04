@@ -30,6 +30,9 @@ Desarrollar las habilidades necesarias para trabajar como analista de datos, com
 - matplotlib
 - seaborn
 - scipy
+- sqlalchemy
+- requests
+- pyarrow
 
 ---
 
