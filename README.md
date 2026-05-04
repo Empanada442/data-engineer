@@ -33,6 +33,7 @@ Desarrollar las habilidades necesarias para trabajar como analista de datos, com
 - sqlalchemy
 - requests
 - pyarrow
+- scikit-learn
 
 ---
 
