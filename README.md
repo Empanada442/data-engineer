@@ -45,5 +45,5 @@ Desarrollar las habilidades necesarias para trabajar como analista de datos, com
 uv init
 uv venv --python 3.12.10
 . .venv/Scripts/activate
-uv add numpy pandas matplotlib seaborn scipy ipykernel
+uv sync
 uv pip list
