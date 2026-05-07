@@ -34,7 +34,7 @@ Desarrollar las habilidades necesarias para trabajar como analista de datos, com
 - requests
 - pyarrow
 - scikit-learn
-
+- openpyxl
 ---
 
 ## Instalación
